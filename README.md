@@ -16,6 +16,7 @@ I made [this post](https://www.reddit.com/r/learnmachinelearning/comments/dn9s0h
 * [Neural Network Simulator](https://www.mladdict.com/neural-network-simulator)
   * this will be great for testing, attempting to implement
   * shows each step and has a verifiable check 
+    * therefore tests can be made for each step
 
 ### Videos
 
@@ -23,3 +24,11 @@ I made [this post](https://www.reddit.com/r/learnmachinelearning/comments/dn9s0h
   * this video does a great job explaining what is going on in a Neural Network at a higher level
   * help build an intuition of what happens
 
+* [Welch Labs Video Series](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+
+
+### Blog Posts
+
+* [Step by Step Math](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
+  
