@@ -2,7 +2,7 @@
 
 I made [this post](https://www.reddit.com/r/learnmachinelearning/comments/dn9s0h/is_there_a_resource_that_shows_every_little_step/) in search of a way to understand Neural Networks. Here are some resources I'm looking into to better understand Neural Networks.
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BetoBob/NN_Toy/master)
 
 ## Resources
 
