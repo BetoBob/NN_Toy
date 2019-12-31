@@ -2,7 +2,7 @@
 
 I made [this post](https://www.reddit.com/r/learnmachinelearning/comments/dn9s0h/is_there_a_resource_that_shows_every_little_step/) in search of a way to understand Neural Networks. Here are some resources I'm looking into to better understand Neural Networks.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BetoBob/NN_Toy/blob/master/Toy Neural Network.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BetoBob/NN_Toy/blob/master/Toy%20Neural%20Network.ipynb)
 
 ## Resources
 
